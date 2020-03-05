@@ -1,0 +1,17 @@
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScoreTests.deps.json
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScoreTests.runtimeconfig.json
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScoreTests.runtimeconfig.dev.json
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScoreTests.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScoreTests.pdb
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScore.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\bin\Debug\netcoreapp2.2\ScrabbleScore.pdb
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.csprojAssemblyReference.cache
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.csproj.CoreCompileInputs.cache
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.AssemblyInfoInputs.cache
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.AssemblyInfo.cs
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.csproj.CopyComplete
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.dll
+C:\Users\BelyyBrat\desktop\epicodus\ScrabbleScore.Solution\ScrabbleScore.Tests\obj\Debug\netcoreapp2.2\ScrabbleScoreTests.pdb

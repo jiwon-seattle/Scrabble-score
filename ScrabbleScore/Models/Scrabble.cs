@@ -32,7 +32,7 @@ namespace Words.Models
     
 
 
-    public void CheckingScrabbleOne()
+    public string CheckingScrabbleOne()
     {
        for (int i = 0; i < Word.Length; i++)
       {
@@ -40,7 +40,8 @@ namespace Words.Models
         {
           ArrayOfValues[i] = 1;
         }
-      }
+      } string a = string.Join("", ArrayOfValues);
+      return a;
     }
 
     public void CheckingScrabbleTwo()

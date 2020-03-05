@@ -19,7 +19,10 @@ using Words.Models;
     {
       Console.Write($"{newScrabble.ArrayOfValues[i]}, ");
     }
-    Console.WriteLine("");
+
+    string stringResult = string.Join("", newScrabble.ArrayOfValues);
+    Console.WriteLine(stringResult);
+    
     Console.WriteLine($"Total Scrabble Score of your word is {newScrabble.SummOfValues()}");
   }
   }
