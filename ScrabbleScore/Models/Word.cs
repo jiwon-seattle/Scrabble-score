@@ -9,7 +9,7 @@ namespace Play.Models
 
     public Word(string property)
     {
-      property = property;
+      property = Property;
     }
   }
 }
