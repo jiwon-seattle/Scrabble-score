@@ -1,5 +1,4 @@
 using System;
-using Words;
 
 
 namespace Words.Models
@@ -7,11 +6,12 @@ namespace Words.Models
   public class Word
   {
     public string Property {get; set;}
-    public char [] ArrayOfValues = new char[property.Length];
-
+    public char [] ArrayOfValues;
     public Word(string property)
     {
       Property = property;
+
+      ArrayOfValues = new char [property.Length];
     }
   }
   

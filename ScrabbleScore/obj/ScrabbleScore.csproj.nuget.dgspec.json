@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BelyyBrat\\Desktop\\Epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj": {}
+    "C:\\Users\\BelyyBrat\\desktop\\epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BelyyBrat\\Desktop\\Epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj": {
+    "C:\\Users\\BelyyBrat\\desktop\\epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BelyyBrat\\Desktop\\Epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj",
+        "projectUniqueName": "C:\\Users\\BelyyBrat\\desktop\\epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj",
         "projectName": "ScrabbleScore",
-        "projectPath": "C:\\Users\\BelyyBrat\\Desktop\\Epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj",
+        "projectPath": "C:\\Users\\BelyyBrat\\desktop\\epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\ScrabbleScore.csproj",
         "packagesPath": "C:\\Users\\BelyyBrat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BelyyBrat\\Desktop\\Epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\obj\\",
+        "outputPath": "C:\\Users\\BelyyBrat\\desktop\\epicodus\\ScrabbleScore.Solution\\ScrabbleScore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
