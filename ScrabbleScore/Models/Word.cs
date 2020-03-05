@@ -1,17 +1,17 @@
 using System;
+using Words;
 
 
-namespace Play.Models
+namespace Words.Models
 {
   public class Word
   {
     public string Property {get; set;}
-    public char [] ArrayOfValues {get; set;}
+    public char [] ArrayOfValues = new char[property.Length];
 
     public Word(string property)
     {
       Property = property;
-      ArrayOfValues = ArrayOfValues[property.Length];
     }
   }
   

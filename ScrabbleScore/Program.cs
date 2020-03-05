@@ -1,22 +1,23 @@
 using System;
 using System.Collections.Generic;
-using Play.Models;
+using Words.Models;
 
-class Program
+namespace Words
 {
-
-
-  static void Main()
+  class Program
   {
-
-    Console.WriteLine("Please, provide word");
-    string response = Console.ReadLine();
-    Scrabble newScrabble = new Scrabble();
-    Word usersWord = new Word(response);
-
-    for (int i=0; i<newScrabble.ScrabbleOne; i++)
+    static void Main()
     {
-      Console.WriteLine(newScrabble.ScrabbleOne[i]);
+
+       Console.WriteLine("Please, provide word");
+       string response = Console.ReadLine();
+       Scrabble newScrabble = new Scrabble();
+       Word usersWord = new Word(response);
+
+      // for (int i=0; i<newScrabble.ScrabbleOne; i++)
+      // {
+        Console.WriteLine(newScrabble.ScrabbleOne[0]);
+    // }
     }
   }
 }
