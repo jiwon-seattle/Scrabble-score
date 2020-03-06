@@ -11,7 +11,6 @@
 ## Specs
 
 <details>
-  <summary>Click to expand!</summary>
 
 | Spec | `Console` Input | `Console` Output |
 | :-------------     | :------------- | :------------- |
@@ -27,7 +26,6 @@
 
 Here are the values of letters in Scrabble:
 |  |  | 
-| :------------- | :------------- |
 | A, E, I, O, U, L, N, R, S, T | 1 |
 | D, G | 2 |
 | B, C, M, P | 3 |
