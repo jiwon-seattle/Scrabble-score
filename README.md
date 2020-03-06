@@ -26,6 +26,7 @@
 | **Program summarizes all values that were assigned to characters** | Jukebox | 27 |
 
 Here are the values of letters in Scrabble:
+|  |  | 
 | :------------- | :------------- |
 | A, E, I, O, U, L, N, R, S, T | 1 |
 | D, G | 2 |
