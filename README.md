@@ -35,12 +35,12 @@ Here are the values of letters in Scrabble:
 ## Setup/Installation Requirements
 
 * Download [.NET Core](https://dotnet.microsoft.com/download/dotnet-core/)
-* Clone this [repository](https://github.com/BelyyBrat/scrabble-score.git/)
+* Clone this [repository](https://github.com/jiwon-seattle/scrabble-score.git)
 * Open the `Command Line Interface`.
-  * Navigate into the `Anagram` directory.
+  * Navigate into the `ScrabbleScore` directory.
     * Type in the command `dotnet restore` to gather tools and dependencies for the application.
     * Type in the command `dotnet run` to run the application.
-  * Navigate into the `Anagram.Tests` directory.
+  * Navigate into the `ScrabbleScore.Tests` directory.
     * Type in the command `dotnet restore` to gather tools and dependencies for the tests.
     * Type in the command `dotnet test` to run the tests. 
 
