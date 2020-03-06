@@ -12,14 +12,13 @@
 
 | Spec | `Console` Input | `Console` Output |
 | :-------------     | :------------- | :------------- |
-| **Program Gathers a word(string) and transforms it array of characters** | Word | W,o,r,d |
-| **Program Assign value 1 to every character that match with characters from list 1** | Word | 1 |
-| **Program Assign value 2 to every character that match with characters from list 2** | Word | 2 |
-| **Program Assign value 3 to every character that match with characters from list 3** | Bacteria | 6 |
-| **Program Assign value 4 to every character that match with characters from list 4** | Fish | 8 |
-| **Program Assign value 5 to every character that match with characters from list 5** | Kick | 10 |
-| **Program Assign value 8 to every character that match with characters from list 8** | Jukebox | 16 |
-| **Program Assign value 10 to every character that match with characters from list 10** | Quiz | 20 |
+| **Program Assign value 1 to every character that match with characters from list 1** | lol | 111 |
+| **Program Assign value 2 to every character that match with characters from list 2** | drag | 2112 |
+| **Program Assign value 3 to every character that match with characters from list 3** | BC | 33 |
+| **Program Assign value 4 to every character that match with characters from list 4** | Hoy | 414 |
+| **Program Assign value 5 to every character that match with characters from list 5** | kick | 5135 |
+| **Program Assign value 8 to every character that match with characters from list 8** | xox | 818 |
+| **Program Assign value 10 to every character that match with characters from list 10** | gaze | 10110 |
 | **Program summarizes all values that were assigned to characters** | Jukebox | 27 |
 
 Here are the values of letters in Scrabble:
