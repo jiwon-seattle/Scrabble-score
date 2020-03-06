@@ -1,4 +1,4 @@
-# [Scrabble Score](https://github.com/BelyyBrat/scrabble-score.git)
+# [Scrabble Score](https://github.com/jiwon-seattle/scrabble-score.git)
 
 #### Intermediate C# and Testing Exercise for [Epicodus](https://www.epicodus.com/), 03.05.2020
 
