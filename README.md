@@ -10,8 +10,6 @@
 
 ## Specs
 
-<details>
-
 | Spec | `Console` Input | `Console` Output |
 | :-------------     | :------------- | :------------- |
 | **Program Gathers a word(string) and transforms it array of characters** | Word | W,o,r,d |
@@ -25,7 +23,8 @@
 | **Program summarizes all values that were assigned to characters** | Jukebox | 27 |
 
 Here are the values of letters in Scrabble:
-|  |  | 
+| Characters | Scrabble Values | 
+| :-------------     | :------------- | 
 | A, E, I, O, U, L, N, R, S, T | 1 |
 | D, G | 2 |
 | B, C, M, P | 3 |
@@ -33,8 +32,6 @@ Here are the values of letters in Scrabble:
 | K | 5 |
 | J, X | 8 |
 | Q, Z | 10 |
-
-</details>
 
 ## Setup/Installation Requirements
 
